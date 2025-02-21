@@ -3,3 +3,5 @@
 - Curso de git y github de alura latam
 
 ``` npm run dev ```
+
+Sistema de registro
